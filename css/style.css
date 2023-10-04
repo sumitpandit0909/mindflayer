@@ -309,7 +309,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(/images/mobile-bg.png);
+        background-image: url(images/mobile-bg.png);
     }
     .about-col1 img{
         width: 95%;
